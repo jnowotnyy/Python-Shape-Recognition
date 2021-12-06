@@ -1,0 +1,5 @@
+The main idea of this is to show a basis of image recognition of a still image that can become a live feed.
+
+This can be expanded to live video by applying this frame by frame.
+
+This takes an image, searches for different polygons, and returns the image with red boxes around these polygons.
