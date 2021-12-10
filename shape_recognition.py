@@ -3,7 +3,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 # written by: Jason Nowotny
-# Date: 12-4-2021  
+# Date: 11-25-2021 
 # get image from user
 filepath = input("Enter the full filepath: ")  
   
